@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-memo-assignment/static/css/main.073c9b0a.css",
+    "main.js": "/react-memo-assignment/static/js/main.44be255b.js",
+    "static/js/787.aa97ce86.chunk.js": "/react-memo-assignment/static/js/787.aa97ce86.chunk.js",
+    "static/media/logo.svg": "/react-memo-assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-memo-assignment/index.html",
+    "main.073c9b0a.css.map": "/react-memo-assignment/static/css/main.073c9b0a.css.map",
+    "main.44be255b.js.map": "/react-memo-assignment/static/js/main.44be255b.js.map",
+    "787.aa97ce86.chunk.js.map": "/react-memo-assignment/static/js/787.aa97ce86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.44be255b.js"
+  ]
+}
